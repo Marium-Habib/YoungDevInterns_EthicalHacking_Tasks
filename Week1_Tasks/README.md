@@ -1,4 +1,4 @@
-🛡️ Week 1 – Foundations of Ethical Hacking
+**🛡️ Week 1 – Foundations of Ethical Hacking**
 
 ✅ Task Overview
 In Week 1 of the YoungDev Interns – Ethical Hacking Program, I focused on establishing the core foundation required for ethical hacking. This included environment setup, understanding key networking protocols, hands-on exploration of Linux tools, and initial reconnaissance techniques.
@@ -27,4 +27,4 @@ In Week 1 of the YoungDev Interns – Ethical Hacking Program, I focused on esta
   - 'theHarvester' – Email, subdomain, and open source data gathering
   - 'Shodan.io' – Internet-connected device search engine
 - Discovered open ports using:
-  nmap -sS 192.168.56.102
+  nmap -sV
