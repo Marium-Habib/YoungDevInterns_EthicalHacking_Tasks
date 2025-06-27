@@ -95,5 +95,5 @@ This section covers the core networking concepts and hands-on practice using ess
 
 👩‍💻 **Intern:** Marium Habib  
 📅 **Program:** YoungDev Interns – Ethical Hacking  
-📂 **Folder:** `Networking_Basics.md/`
+📂 **Folder:** `Networking_Basics.md`
 
