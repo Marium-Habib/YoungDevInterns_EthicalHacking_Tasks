@@ -26,7 +26,7 @@ In this task, I performed a basic **Nmap scan** on the local network to discover
 
 Identify active devices and open ports on the local network
 
-![nmap Test Screenshot](Images/netstat_output.png)
+![nmap Test Screenshot](Images/nmap_scan.png)
 
 
 ---
@@ -43,10 +43,10 @@ Capture packets during Nmap scan or normal network activity and analyze them in 
 * Use filters to focus on relevant packets during analysis.
 
 #### ICMP Filter
-![Wireshark Screenshot](Images/netstat_output.png)
+![Wireshark Screenshot](Images/icmp_wireshark.png)
 
 #### DNS Filter
-![Wireshark Screenshot](Images/netstat_output.png)
+![Wireshark Screenshot](Images/dns_wireshark.png)
 
 ---
 
