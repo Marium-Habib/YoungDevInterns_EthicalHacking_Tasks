@@ -55,7 +55,7 @@ This section covers the core networking concepts and hands-on practice using ess
 - Sends ICMP Echo Requests to check if a host is reachable.
 - Used to test connectivity between Kali and Metasploitable.
 
-📸 Screenshot: `ping_test.png`
+![ping Test Screenshot](Images/ping_output.png)
 
 ---
 
@@ -63,7 +63,7 @@ This section covers the core networking concepts and hands-on practice using ess
 - Displays active network connections and listening ports.
 - Helps identify open services and their states (e.g., LISTENING, ESTABLISHED)
 
-📸 Screenshot: `netstat_output.png`
+![netstat Test Screenshot](Images/netstat_output.png)`
 
 ---
 
@@ -71,7 +71,7 @@ This section covers the core networking concepts and hands-on practice using ess
 - Traces the path packets take to reach a destination.
 - Useful for diagnosing routing issues and delays.
 
-📸 Screenshot: `traceroute_output.png`
+![traceroute Test Screenshot](Images/traceroute_output.png)
 
 ---
 
@@ -79,7 +79,7 @@ This section covers the core networking concepts and hands-on practice using ess
 - Network scanning tool used to discover live hosts and open ports.
 - Can detect services and OS info on targets.
 
-📸 Screenshot: `nmap_scan_output.png`
+![nmap Test Screenshot](Images/nmap_output.png)
 
 
 
@@ -95,5 +95,5 @@ This section covers the core networking concepts and hands-on practice using ess
 
 👩‍💻 **Intern:** Marium Habib  
 📅 **Program:** YoungDev Interns – Ethical Hacking  
-📂 **Folder:** `networking_basics/`
+📂 **Folder:** `Networking_Basics.md/`
 
