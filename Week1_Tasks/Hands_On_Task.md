@@ -26,7 +26,7 @@ In this task, I performed a basic **Nmap scan** on the local network to discover
 
 Identify active devices and open ports on the local network
 
-Images/nmap_scan.png
+![nmap Test Screenshot](Images/netstat_output.png)
 
 
 ---
@@ -40,35 +40,13 @@ Capture packets during Nmap scan or normal network activity and analyze them in 
 ### 🔹 Packet Capture Process
 
 * Open Wireshark and select the correct network interface (e.g., `eth0` or `wlan0`).
-* Start capturing before running the Nmap scan to record all traffic.
 * Use filters to focus on relevant packets during analysis.
 
-### 🔹 Useful Filters
+#### ICMP Filter
+![Wireshark Screenshot](Images/netstat_output.png)
 
-```text
-# Show packets to/from a specific IP address
-ip.addr == 192.168.56.101
-
-# Show only TCP packets
-tcp
-
-# Show only ICMP packets (e.g., ping requests)
-icmp
-```
-
-### 🔹 What to Observe
-
-* SYN, ACK, FIN packets during port scanning
-* ICMP Echo Requests and Replies
-* Protocol and port information in packet headers
-
-### 📸 Screenshot Reference
-
-`screenshots/wireshark_capture.png`
-
-### 📄 Packet Analysis Notes
-
-`outputs/wireshark_notes.txt`
+#### DNS Filter
+![Wireshark Screenshot](Images/netstat_output.png)
 
 ---
 
@@ -78,44 +56,3 @@ icmp
 * The types of packets exchanged during scanning (SYN, ICMP, etc.)
 * Using Wireshark filters to analyze network traffic effectively
 * Practical experience with network scanning and packet capturing tools
-
----
-
-## 📁 Recommended Folder Structure
-
-```
-hands_on_nmap_wireshark/
-│
-├── screenshots/
-│   ├── nmap_scan.png
-│   └── wireshark_capture.png
-│
-├── outputs/
-│   ├── nmap_scan.txt
-│   └── wireshark_notes.txt
-│
-└── README.md
-```
-
----
-
-## 👩‍💻 Intern Details
-
-**Name:** Marium Habib
-**Program:** YoungDev Interns – Ethical Hacking
-**Task:** Hands-On Nmap & Wireshark Analysis
-**Date:** June 2025
-
----
-
-## ⚠️ Disclaimer
-
-> This task was performed in a **safe, legal, and isolated environment** using Kali Linux and virtual machines. It is intended for **educational purposes only**.
-
-```
-
----
-
-You can copy this entire content into a `README.md` file and upload it directly to your GitHub repo.  
-If you want, I can also help prepare the full folder structure with placeholder screenshots and output files. Let me know!
-```
