@@ -48,7 +48,7 @@ This section covers the core networking concepts and hands-on practice using ess
 - Shows current IP, MAC, subnet mask, etc.
 - Used to verify network interface configuration.
 
-![ifconfig Test Screenshot](./ifconfig_output.png)
+![ifconfig Test Screenshot](.Images/ifconfig_output.png)
 
 
 ### 🔹 `ping`
