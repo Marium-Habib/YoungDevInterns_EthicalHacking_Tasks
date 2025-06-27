@@ -34,7 +34,7 @@ This week focused on understanding how attackers gather information about their 
 - Retrieves domain ownership, registration, and expiry details.
 - Useful to identify the organization or admin managing the domain.
 
-📸 *Screenshot:* `screenshots/whois_output.png`
+![whois Test Screenshot](Images/whois.png)
 
 ---
 
@@ -42,7 +42,7 @@ This week focused on understanding how attackers gather information about their 
 - Performs DNS lookups to get IPs, nameservers, mail servers, etc.
 - Helps map the target’s domain infrastructure.
 
-📸 *Screenshot:* `screenshots/nslookup_output.png`
+![nslookup Test Screenshot](Images/nslookup.png)
 
 ---
 
@@ -50,7 +50,7 @@ This week focused on understanding how attackers gather information about their 
 - Collects emails, subdomains, and hosts from public sources like Google, Bing, LinkedIn, etc.
 - Great for **email footprinting** and **subdomain discovery**.
 
-📸 *Screenshot:* `screenshots/theHarvester_output.png`
+![theHarvester Test Screenshot](Images/theHarvester.png)
 
 ---
 
@@ -59,7 +59,7 @@ This week focused on understanding how attackers gather information about their 
 - Can identify open ports, vulnerabilities, and banners (e.g., server versions).
 - Helps understand the tech stack and services exposed.
 
-📸 *Screenshot:* `screenshots/shodan_output.png`
+![shodan Test Screenshot](Images/shodan.io.png)
 
 ---
 
@@ -67,7 +67,7 @@ This week focused on understanding how attackers gather information about their 
 - Scans a target for **open ports**, **running services**, and even **OS detection**.
 - Used in the **active phase** to map the attack surface.
 
-📸 *Screenshot:* `screenshots/nmap_scan_output.png`
+![nmap Test Screenshot](Images/nmap_output.png)
 
 ---
 
@@ -89,7 +89,3 @@ This week focused on understanding how attackers gather information about their 
 - Learned to use **OSINT tools** to collect useful data without alerting the target.
 - Practiced scanning live systems and identifying open services.
 - Built a strong base for further attack planning and vulnerability scanning.
-
-
-
-
