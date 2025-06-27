@@ -89,11 +89,3 @@ This section covers the core networking concepts and hands-on practice using ess
 - Learned practical usage of Linux tools to analyze and scan networks.
 - Gained basic exposure to packet analysis using Wireshark.
 
-
----
-
-
-👩‍💻 **Intern:** Marium Habib  
-📅 **Program:** YoungDev Interns – Ethical Hacking  
-📂 **Folder:** `Networking_Basics.md`
-
