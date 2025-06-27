@@ -3,6 +3,7 @@
 This section covers the core networking concepts and hands-on practice using essential Linux tools. The goal was to understand how network communication works and to analyze it practically.
 
 
+
 ## 🔌 Core Networking Protocols
 
 ### 1. **IP Address (Internet Protocol)**
@@ -30,6 +31,7 @@ This section covers the core networking concepts and hands-on practice using ess
   - Network Access Layer
 
 
+
 ## 📦 Understanding Ports, Services & Packet Structure
 
 - **Ports**: Logical endpoints for network services.
@@ -37,6 +39,7 @@ This section covers the core networking concepts and hands-on practice using ess
 - **Services**: Applications that listen on ports (e.g., Apache on port 80).
 - **Packet Structure**: Each packet contains headers and payloads.
   - Analyzed using **Wireshark** to view packet-level communication.
+
 
 
 ## 🔧 Linux Networking Tools Used
@@ -78,7 +81,7 @@ This section covers the core networking concepts and hands-on practice using ess
 
 📸 Screenshot: `nmap_scan_output.png`
 
----
+
 
 ## 🧠 Learnings
 
@@ -86,7 +89,9 @@ This section covers the core networking concepts and hands-on practice using ess
 - Learned practical usage of Linux tools to analyze and scan networks.
 - Gained basic exposure to packet analysis using Wireshark.
 
+
 ---
+
 
 👩‍💻 **Intern:** Marium Habib  
 📅 **Program:** YoungDev Interns – Ethical Hacking  
