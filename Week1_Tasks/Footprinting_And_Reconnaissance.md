@@ -1,4 +1,4 @@
-# 🕵️‍♀️ Footprinting and Reconnaissance – Week 2
+# 🕵️‍♀️ Footprinting and Reconnaissance
 
 This week focused on understanding how attackers gather information about their targets **before launching an attack**. This phase is crucial in ethical hacking, as it helps reveal potential vulnerabilities without directly engaging the target system (passive) or by actively interacting with it (active).
 
