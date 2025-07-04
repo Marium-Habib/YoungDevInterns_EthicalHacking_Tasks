@@ -10,7 +10,7 @@ This section covers advanced scanning techniques and enumeration tools used to e
 - Identifies the version of services running on open ports.
 - Helps in determining possible vulnerabilities based on outdated versions.
 
-📸 Screenshot: `nmap_advanced_scan.png`
+![version detection Screenshot](Images/nmap_sv.png)
 
 
 ### 2. **Operating System Detection**
@@ -18,14 +18,14 @@ This section covers advanced scanning techniques and enumeration tools used to e
 * Attempts to identify the target’s operating system.
 * Useful for tailoring future exploits.
 
-📸 Screenshot: `nmap_advanced_scan.png`
+![operating system detection Screenshot](Images/nmap_o.png)
 
 
 ### 4. **Nmap Scripting Engine (NSE)**
 
 * Runs built-in scripts to extract specific information (e.g., HTTP titles, vulnerabilities, etc.)
 
-📸 Screenshot: `nmap_advanced_scan.png`
+![nmap script Screenshot](Images/nmap_script.png)
 
 ---
 
@@ -36,7 +36,7 @@ This section covers advanced scanning techniques and enumeration tools used to e
 * A web server vulnerability scanner.
 * Scans for outdated software, dangerous files, and misconfigurations.
 
-📸 Screenshot: `nikto_scan.png`
+![Nikto Screenshot](Images/nikto.png)
 
 ---
 
@@ -44,7 +44,7 @@ This section covers advanced scanning techniques and enumeration tools used to e
 
 * Brute-forces directories and files on a web server using a wordlist.
 
-📸 Screenshot: `dirb_scan.png`
+![Dirb Screenshot](Images/dirb.png)
 
 ---
 
@@ -53,7 +53,7 @@ This section covers advanced scanning techniques and enumeration tools used to e
 * Faster alternative to Dirb for discovering directories and files.
 * Uses wordlists and supports DNS/virtual host enumeration as well.
 
-📸 Screenshot: `gobuster_scan.png`
+![GoBuster Screenshot](Images/gobuster.png)
 
 ---
 
