@@ -10,7 +10,7 @@ This section covers advanced scanning techniques and enumeration tools used to e
 - Identifies the version of services running on open ports.
 - Helps in determining possible vulnerabilities based on outdated versions.
 
-![version detection Screenshot](Images/nmap_sv.png)
+![version detection Screenshot](Images/nmap_sV.png)
 
 
 ### 2. **Operating System Detection**
