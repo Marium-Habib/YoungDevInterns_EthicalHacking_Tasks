@@ -21,7 +21,7 @@ This section covers advanced scanning techniques and enumeration tools used to e
 ![operating system detection Screenshot](Images/nmap_o.png)
 
 
-### 4. **Nmap Scripting Engine (NSE)**
+### 3. **Nmap Scripting Engine (NSE)**
 
 * Runs built-in scripts to extract specific information (e.g., HTTP titles, vulnerabilities, etc.)
 
