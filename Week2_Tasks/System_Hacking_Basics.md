@@ -10,7 +10,7 @@ This section focuses on understanding how passwords are stored, cracked, and exp
 - A fast password cracker used to perform dictionary and brute-force attacks.
 - Supports many hash types including MD5, SHA1, etc.
 
-  ![John the Ripper Screenshot](Images/john_the_ripper.png)
+  ![John the Ripper Screenshot](Images/john_the_riper.png)
 
 
 ### 2. **Hydra**
