@@ -10,12 +10,15 @@ This section focuses on understanding how passwords are stored, cracked, and exp
 - A fast password cracker used to perform dictionary and brute-force attacks.
 - Supports many hash types including MD5, SHA1, etc.
 
+  ![John the Ripper Screenshot](Images/john_the_ripper.png)
+
 
 ### 2. **Hydra**
 
 * A powerful tool for brute-force login credentials on various protocols (SSH, FTP, HTTP, etc.).
 * Supports multi-threaded attacks for faster cracking.
 
+![Hydra Screenshot](Images/hydra.png)
 
 ---
 
@@ -35,6 +38,7 @@ This section focuses on understanding how passwords are stored, cracked, and exp
 * Launched `msfconsole` to search and run common exploits.
 * Cracked weak service credentials and gained shell access.
 
+![Msfconsole Screenshot](Images/msfconsole.png)
 
 ---
 
