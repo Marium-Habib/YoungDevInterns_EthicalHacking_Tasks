@@ -14,6 +14,8 @@ Use a dictionary attack to recover the password of a protected ZIP or PDF file u
 - `John the Ripper` – Performs dictionary attack  
 - Wordlist: `/usr/share/wordlists/rockyou.txt
 
+![Password Cracking Screenshot](Images/zipfile_crack.png)
+
 ---
 
 ## 🕵️ Task 2: Perform Enumeration on a Vulnerable Linux System
@@ -31,6 +33,9 @@ nmap -sV -O <target_ip>           # Version + OS detection
 nmap --script vuln <target_ip>  # Run NSE script
 ```
 
+![Nmap Scan Screenshot](Images/nmap_sv_o.png)
+
+![Nmap Screenshot](Images/nmap_script.png)
 
 ---
 
@@ -41,7 +46,11 @@ nikto -h http://<target_ip>
 dirb http://<target_ip>
 gobuster dir -u http://<target_ip> -w /usr/share/wordlists/dirb/common.txt
 ```
+![nikto Screenshot](Images/nikto.png)
 
+![dirb Screenshot](Images/dirb.png)
+
+![gobuster Screenshot](Images/gobuster.png)
 
 ---
 
