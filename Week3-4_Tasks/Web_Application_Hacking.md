@@ -24,18 +24,18 @@ This project demonstrates how to perform manual and automated SQL Injection atta
 
 ---
 
-## OWASP Top 10 
+## 🔐 OWASP Top 10 
 
-- **A01: Broken Access Control** – Fails to restrict user actions, allowing unauthorized access.  
-- **A02: Cryptographic Failures** – Weak or misused encryption exposes sensitive data.  
-- **A03: Injection** – Untrusted data sent to an interpreter (e.g., SQL, OS commands).  
-- **A04: Insecure Design** – Flaws in architecture/design lead to security risks.  
-- **A05: Security Misconfiguration** – Poorly configured apps/servers (e.g., defaults, verbose errors).  
-- **A06: Vulnerable & Outdated Components** – Using dependencies with unpatched vulnerabilities.  
-- **A07: Identification & Auth Failures** – Weak login systems (e.g., brute force, poor session handling).  
-- **A08: Software & Data Integrity Failures** – Untrusted code/data bypasses checks (e.g., CI/CD flaws).  
-- **A09: Security Logging & Monitoring Failures** – Missing threat detection enables breaches.  
-- **A10: Server-Side Request Forgery (SSRF)** – Forges server requests to access/internal systems.
+- **01: Broken Access Control** – Fails to restrict user actions, allowing unauthorized access.  
+- **02: Cryptographic Failures** – Weak or misused encryption exposes sensitive data.  
+- **03: Injection** – Untrusted data sent to an interpreter (e.g., SQL, OS commands).  
+- **04: Insecure Design** – Flaws in architecture/design lead to security risks.  
+- **05: Security Misconfiguration** – Poorly configured apps/servers (e.g., defaults, verbose errors).  
+- **06: Vulnerable & Outdated Components** – Using dependencies with unpatched vulnerabilities.  
+- **07: Identification & Auth Failures** – Weak login systems (e.g., brute force, poor session handling).  
+- **08: Software & Data Integrity Failures** – Untrusted code/data bypasses checks (e.g., CI/CD flaws).  
+- **09: Security Logging & Monitoring Failures** – Missing threat detection enables breaches.  
+- **10: Server-Side Request Forgery (SSRF)** – Forges server requests to access/internal systems.
 
 ---
 
