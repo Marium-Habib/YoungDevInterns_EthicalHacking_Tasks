@@ -11,12 +11,21 @@ Escalate user-level access to root by identifying misconfigurations and exploita
 
 ### 🔹 Techniques Explored
 
-- **SUID Binaries** – Misconfigured binaries with root permissions  
-- **Scheduled Cron Jobs** – Writable scripts executed by root  
-- **Environment Variables** – Manipulating variables to hijack execution
+- **SUID Binaries** – Misconfigured binaries with root permissions
+  
+  ![SUID Binaries Screenshot](Images/suid.png)
+
+---
+  
+- **Scheduled Cron Jobs** – Writable scripts executed by root
+
+  ![Cron Jobs Screenshot](Images/crontab.png)
 
 ---
 
+- **Environment Variables** – Manipulating variables to hijack execution
+
+  ![Environment Variables Screenshot](Images/environment_variable.png)
 
 ---
 
