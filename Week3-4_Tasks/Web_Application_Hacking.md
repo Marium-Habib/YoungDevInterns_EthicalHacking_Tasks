@@ -46,15 +46,23 @@ This project demonstrates how to perform manual and automated SQL Injection atta
 - Modified the parameter `id=1` to a payload: `id=1' OR '1'='1`
 - Forwarded request to the server and confirmed vulnerable response
 
+![burpsuite Screenshot](Images/burpsuite.png)
+
+![sql_injection_manual Screenshot](Images/sql_injection_manual.png)
+
 ---
 
 ## 🤖 SQL Injection Using sqlmap
 
 - Saved modified Burp request to file `dvwa.req`
 
+![sqlmap](Images/sqlmap.png)
+
 ---
 
 ### 🔍 Data Dump Example
+
+![Data Dump Screenshot](Images/sql_map_dump.png)
 
 ---
 
