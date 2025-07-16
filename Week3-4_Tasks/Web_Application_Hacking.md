@@ -56,7 +56,7 @@ This project demonstrates how to perform manual and automated SQL Injection atta
 
 - Saved modified Burp request to file `dvwa.req`
 
-![sqlmap](Images/sqlmap.png)
+![sqlmap](Images/sql_map.png)
 
 ---
 
