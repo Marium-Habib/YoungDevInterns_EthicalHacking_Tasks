@@ -126,6 +126,8 @@ This hands-on task focused on exploiting the vulnerable **Mr. Robot** VM from Vu
 
 * ✅ Got **root shell** successfully.
 
+![Mr.Robot Exploit Screenshot](Images/mr.robot_exploit.png)
+
 ---
 
 ## 🧠 Learnings
