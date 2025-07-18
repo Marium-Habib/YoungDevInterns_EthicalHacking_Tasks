@@ -39,7 +39,7 @@ Escalate user privileges on Windows using insecure configurations or services.
 
 * **Unquoted Service Paths** – Misconfigured services with writable paths
 * **Weak Service Permissions** – Exploiting permission misconfigurations
-* **Access Tokens / Impersonation** – Using token manipulation or `runas`
+* **Access Tokens** – Using token manipulation 
 
 ---
 
