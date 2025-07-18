@@ -66,7 +66,7 @@ This project demonstrates how to perform manual and automated SQL Injection atta
 
 ---
 
-##🧠 Learnings
+## 🧠 Learnings
 
 - Gained hands-on experience with web vulnerabilities like XSS, SQLi, and CSRF
 - Learned to intercept and manipulate web traffic using Burp Suite
