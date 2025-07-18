@@ -31,5 +31,3 @@ During Weeks 3 and 4 of the YoungDev Interns – Ethical Hacking Program, I focu
 - Exploited a vulnerable VM from **VulnHub** (e.g., Mr. Robot or Basic Pentesting)  
 - Achieved **root/admin access** through privilege escalation  
 - Combined exploitation and post-exploitation techniques to fully compromise the system  
-
-```
