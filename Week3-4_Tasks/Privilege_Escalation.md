@@ -43,6 +43,7 @@ Escalate user privileges on Windows using insecure configurations or services.
 
 ---
 
+![unquoted paths Screenshot](Images/unquoted_paths.png)
 
 ---
 
